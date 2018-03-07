@@ -1,0 +1,79 @@
+
+@import url(https://fonts.googleapis.com/css?family=Rancho&effect=fire-animation|fire|vintage|neon|splintered|crackle|emboss|distressed-wood|static);
+  
+html, body {
+  position: relative fixed;
+  background-color:black;
+}
+
+h1 {
+  color:white;
+  font-family: "fire-animation";
+}
+
+h2 {
+  color:white;
+  font-family: vintage;
+}
+
+#display {
+  padding-left:12px;
+  padding-right:5px;
+  font-size:3.5em;
+}
+
+a{  
+  margin:1px;
+  width:80px;
+  height:65px;
+    
+}
+
+.btn {
+  font-size:2em;
+}
+
+.btn-primary {
+  background-color: grey;
+}
+
+.bigButton {
+  width:164px;
+  margin-right:0px;
+  margin-left:6px;
+}
+
+#dot {
+  margin-left: 2px;
+  margin-right: 4px;
+}
+
+#total {
+  margin-left:0px;
+  margin-right:8px;
+}
+
+#calc-Output {
+  background-color: whitesmoke;
+  width:400px;
+  height:76px;
+  border-top-left-radius:1em;
+  border-top-right-radius:1em;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:60px;
+  padding-top:5px;
+  
+}
+
+#calculator {
+  background-color: lightgray;
+  width:400px;
+  height:350px;
+  margin-right:auto;
+  margin-left:auto;
+  border-bottom-left-radius:1em;
+  border-bottom-right-radius:1em;
+  
+}
+
